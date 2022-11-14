@@ -1,2 +1,4 @@
 metapack.yaml
 environment-private.env
+cresentials.sh
+boto.cfg
